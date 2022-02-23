@@ -1,2 +1,2 @@
-# Rednering-uman-faces-in-real-time
+# Rednering-human-faces-in-real-time
 Open Cv
